@@ -1,8 +1,8 @@
-<h1 align="left">Oi 👋 Como vai?</h1>
+<h1 align="left">Bem-vindo ao meu perfil do GitHub! 👋</h1>
 
 ###
 
-<p align="left">Prazer meu nome é Pedro marques</p>
+<p align="left">Olá! Eu sou Pedro Marques, um desenvolvedor apaixonado por tecnologia e programação. Neste perfil, você encontrará uma coleção dos meus projetos, que vão desde aplicações completas até testes e experimentos de estudos. Sinta-se à vontade para explorar, conferir o código e deixar sugestões.</p>
 
 ###
 
