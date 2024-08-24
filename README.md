@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+💼 Atualmente trabalho como: Desenvolvedor Salesforce
+<br>🎓 Formação: Curso técnico de Informática para Internet
+<br>📚 Atualmente cursando: Análise e Desenvolvimento de Sistemas
+<br>🌍 Idiomas: Inglês intermediário e espanhol básico
+</p>
 
 ###
 
